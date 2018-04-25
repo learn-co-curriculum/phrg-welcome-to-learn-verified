@@ -61,4 +61,4 @@ As you go through the curriculum, we know you are concerned about what the end l
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sn5MUV_NY0k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=sn5MUV_NY0k">Career Services Intro Video</a></p>
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/welcome-to-learn-verified' title='Welcome'>Welcome</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Welcome</p>
